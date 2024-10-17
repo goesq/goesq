@@ -5,7 +5,7 @@ Sou um estudante de análise e desenvolvimento de sistemas com interesse em apre
 
 ### Habilidades
 - Linguagens: [JavaScript, Python, HTML, CSS]
-- Frameworks: [Node.js, Boostrap, Vue.js]
+- Frameworks: [Node.js, Boostrap, Vue.js, Chart.js]
 - Ferramentas: [Git, Pycharm, Visual Studio Code]
 
 ### Conecte-se Comigo
