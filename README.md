@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Victor Goes 👋
 
-<!--
-**goesq/goesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um estudante de análise e desenvolvimento de sistemas com interesse em aprender e me desenvolver dentro da área de progração. Tenho experiência em [linguagens ou tecnologias que você domina, ex: JavaScript, Python, React].
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens: [JavaScript, Python, HTML, CSS]
+- Frameworks: [Node.js, Boostrap, Vue.js]
+- Ferramentas: [Git, Pycharm, Visual Studio Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se Comigo
+- [LinkedIn](www.linkedin.com/in/victorgoes7)
+
+
