@@ -1,4 +1,4 @@
-# Olá, eu sou Victor Goes 👋
+# Olá, eu sou o Victor Goes 👋
 
 ## Sobre Mim
 Sou um estudante de análise e desenvolvimento de sistemas com interesse em aprender e me desenvolver dentro da área de progração. ☂️
