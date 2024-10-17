@@ -1,7 +1,7 @@
 # Olá, eu sou Victor Goes 👋
 
 ## Sobre Mim
-Sou um estudante de análise e desenvolvimento de sistemas com interesse em aprender e me desenvolver dentro da área de progração. Tenho experiência em [linguagens ou tecnologias que você domina, ex: JavaScript, Python, React].
+Sou um estudante de análise e desenvolvimento de sistemas com interesse em aprender e me desenvolver dentro da área de progração. ☂️
 
 ## Habilidades
 - Linguagens: [JavaScript, Python, HTML, CSS]
