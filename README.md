@@ -9,6 +9,6 @@ Sou um estudante de análise e desenvolvimento de sistemas com interesse em apre
 - Ferramentas: [Git, Pycharm, Visual Studio Code]
 
 ### Conecte-se Comigo
-- [LinkedIn](www.linkedin.com/in/victorgoes7)
+- [LinkedIn](www.linkedin.com/in/victorgoes7) (caso de erro: linkedin.com/in/victorgoes7)
 
 
